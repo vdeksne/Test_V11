@@ -344,13 +344,13 @@ h5 {
     margin: 1% 0;
     width: 80%
 } */
-.professional_list li {
+/* .professional_list li { */
     /* display: inline-block;  */
     /* prevents the bullets being forced off the left-hand side, but still allows padding to be applied */
     /* padding-left: 8px;
     margin-left: 10px; */
     
-}
+/* } */
 
 #professional_list {
     font-size: 0.7rem;
